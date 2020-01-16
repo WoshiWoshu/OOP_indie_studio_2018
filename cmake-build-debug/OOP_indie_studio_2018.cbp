@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OOP_indie_studio_2018"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\source\;CMake Files\source\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bomberman">
+				<Option output="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/bomberman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/."/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/include"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 bomberman"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bomberman/fast">
+				<Option output="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/bomberman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/."/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/include"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 bomberman/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit-tests">
+				<Option output="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/unit-tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/."/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/include"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 unit-tests"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unit-tests/fast">
+				<Option output="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/unit-tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/."/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/include"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source"/>
+					<Add directory="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 unit-tests/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/core/Core.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/core/Load.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/core/Save.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/core/Settings.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Ai.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Bomb.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Enemies.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Map.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Monitor.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Output.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Player.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/ProceduralGeneration.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/game/Tile.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/graphical_engine/Animations.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/graphical_engine/CEventReceiver.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/graphical_engine/GraphicalEngine.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/graphical_engine/Menu.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/graphical_engine/SceneNodes.cpp">
+			<Option target="bomberman"/>
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/main.cpp">
+			<Option target="bomberman"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/BombTest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/MapTest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/MonitorTest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/PlayerTest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/TileTest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/tests/thetest.cpp">
+			<Option target="unit-tests"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/cmake_modules/FindCriterion.cmake">
+			<Option virtualFolder="CMake Files\source\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/gabriel/tech_2/semester_4/OOP_indie_studio_2018/source/cmake_modules/FindIrrlicht.cmake">
+			<Option virtualFolder="CMake Files\source\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
