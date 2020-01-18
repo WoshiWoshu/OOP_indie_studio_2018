@@ -12,3 +12,5 @@ USAGE :
 1) cmake
 
 2) ./bomberman
+
+![Image description](cover.jpg)
